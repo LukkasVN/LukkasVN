@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm LukkasVN</h1>
-<h3 align="center">Everlearning Gameplay Programmer</h3>
+<h3 align="center">Everlearning Gameplay Programmer and Game Developer</h3>
 
-<!-- [![Lucas Varela Negro](https://github.com/user-attachments/assets/eee31baf-d57d-402a-92ac-309757f17ef2)](https://lukkasvn.itch.io) -->
+[![Lucas Varela Negro](https://github.com/user-attachments/assets/8c859ecd-e3a7-44aa-ae4a-a5beb0921282)](https://lukkasvn.itch.io)
 
 <a href="https://github.com/LukkasVN" target="_blank" rel="noreferrer">
 <img align="right" alt="Making Games" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"/>
 </a>
 
-- Video Game and Virtual Reality Development specialist.  
+- Gameplay, Game developer and Virtual Reality Development specialist.  
 - Passionate about game development and programming.  
-- Experienced primarily with Unity Engine and C#/.NET, currently expanding skills in Unreal Engine with C++.  
+- Experienced primarily with Unity Engine, C#/.NET, and Unreal Engine with C++/Blueprints.  
 - Actively developing personal projects, learning new gamedev-related technologies and regularly participating in Game Jams.  
 - Seeking a role in the game industry to grow and contribute.  
 - Find all my socials here: [https://linktr.ee/LukkasVN](https://linktr.ee/LukkasVN)
@@ -68,9 +68,24 @@
 <br>
 
 <br>
+
+
+<h3 align="center">Check out my LVN Gameplay Programming Showcase!</h3>
+
+<p align="center">
+  <a href="https://github.com/LukkasVN/LVN-Gameplay-Programming-Showcase">
+    <img src="https://github.com/user-attachments/assets/a636ccfc-e654-406a-90d1-e23151ee5758" width="800px" />
+  </a>
+</p>
+
+<h3 align="center">
+  <a href="https://github.com/LukkasVN/LVN-Gameplay-Programming-Showcase">Click here to explore the repo</a>
+</h3>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukkasvn&label=Profile%20views&color=0e75b6&style=flat" alt="lukkasvn" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukkasvn&show_icons=true&locale=en&layout=compact" alt="lukkasvn" /></p>
+![GitHub stars](https://img.shields.io/github/stars/LukkasVN?style=social)
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lukkasvn&theme=dark" alt="lukkasvn" /></p>
 
