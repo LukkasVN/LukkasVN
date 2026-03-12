@@ -8,19 +8,25 @@
 </a>
 
 <br> </br>
-- Gameplay Programmer and Game Developer specializing in Gameplay Systems and Virtual Reality Development.
-- Passionate about game development, programming, and creating engaging player experiences.
-- Expert in Unity Engine (C#/.NET) and Unreal Engine (C++/Blueprints) with a focus on gameplay systems and mechanics.
-- Actively developing personal projects, learning new gamedev technologies, and regularly participating in Game Jams.
-- Creator of the LVN Gameplay Programming Showcase - a comprehensive series exploring gameplay mechanics across engines.
-- Seeking a role in the game industry to grow and contribute innovative solutions.
-- Find all my socials here: [https://linktr.ee/LukkasVN](https://linktr.ee/LukkasVN)
-<br>
+
+- **Gameplay Systems Specialist**: Crafting robust, state-machine-driven mechanics across multiple game engines with a focus on physics, input handling, and player experience.
+
+- **Passionate Creator**: Dedicated to game development and programming with a mission to build engaging, innovative player experiences through clean code and thoughtful design.
+
+- **Engine Expert**: Proficient in Unity Engine (C#/.NET) and Unreal Engine (C++/Blueprints), specializing in gameplay systems architecture and cross-engine solutions.
+
+- **Continuous Learner**: Actively building personal projects, exploring emerging gamedev technologies, and sharpening skills through regular Game Jam participation.
+
+- **Content Creator**: Author of the LVN Gameplay Programming Showcase, a comprehensive series documenting gameplay systems and tools with detailed implementations across engines.
+
+- **Industry Ready**: Seeking opportunities to grow within the game industry and contribute cutting-edge gameplay solutions to innovative projects.
+
+- **Connect With Me**: [https://linktr.ee/LukkasVN](https://linktr.ee/LukkasVN)
 
 <br>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
@@ -58,8 +64,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<br>
 
 <br>
 
