@@ -53,7 +53,7 @@ An ongoing series of gameplay systems and tools, implemented and documented acro
 
 ## Shipped
 
-**[Bounce It](https://store.steampowered.com/app/3482000/Bounce_IT/)** on Steam, 2024.
+**[Bounce It](https://store.steampowered.com/app/3482000/Bounce_IT/)** on Steam, 2025.
 
 13 game jams completed. Most recently *Mask Atrack*, built for HobbyPont 2026 (Global Game Jam 2026) in 48 hours, where I handled programming, game design, and project direction.
 
