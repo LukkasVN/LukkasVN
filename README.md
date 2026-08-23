@@ -1,73 +1,41 @@
-<h1 align="center">Hi 👋, I'm LukkasVN</h1>
-<h3 align="center">Everlearning Gameplay Programmer and Game Developer</h3>
+<div align="center">
 
-<!-- [![Lucas Varela Negro](https://github.com/user-attachments/assets/8c859ecd-e3a7-44aa-ae4a-a5beb0921282)](https://lukkasvn.itch.io) -->
+# Lucas Varela Negro
 
-<a href="https://github.com/LukkasVN" target="_blank" rel="noreferrer">
-<img align="right" alt="Making Games" width="600" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"/>
-</a>
+### Gameplay Programmer · Unity C# · Unreal C++
 
-<br> </br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-lukkasvn.github.io-4A82C4?style=for-the-badge)](https://lukkasvn.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-varela-negro/)
+[![itch.io](https://img.shields.io/badge/itch.io-Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://lukkasvn.itch.io/)
 
-- **Gameplay Systems Specialist**: Crafting robust, state-machine-driven mechanics across multiple game engines with a focus on physics, input handling, and player experience.
-
-- **Passionate Creator**: Dedicated to game development and programming with a mission to build engaging, innovative player experiences through clean code and thoughtful design.
-
-- **Engine Expert**: Proficient in Unity Engine (C#/.NET) and Unreal Engine (C++/Blueprints), specializing in gameplay systems architecture and cross-engine solutions.
-
-- **Continuous Learner**: Actively building personal projects, exploring emerging gamedev technologies, and sharpening skills through regular Game Jam participation.
-
-- **Content Creator**: Author of the LVN Gameplay Programming Showcase, a comprehensive series documenting gameplay systems and tools with detailed implementations across engines.
-
-- **Industry Ready**: Seeking opportunities to grow within the game industry and contribute cutting-edge gameplay solutions to innovative projects.
-
-- **Connect With Me**: [https://linktr.ee/LukkasVN](https://linktr.ee/LukkasVN)
+</div>
 
 <br>
 
-<!-- <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/443515/brand-unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/329985/aseprite.svg" alt="Aseprite" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-</p> -->
+I build gameplay systems in Unity and Unreal, and I use this account mostly to document how those systems are put together: state machines, damage and destruction, tooling, editor scripting, whatever I'm currently taking apart to see how it works.
+
+Open to roles inside a game studio, and taking on freelance programming, tooling, and VR/simulator work on the side. Full profile, services, and devlog live on my [portfolio site](https://lukkasvn.github.io) [Currently WIP].
 
 <br>
 
-<h3 align="center">Check out my LVN Gameplay Programming Showcase!</h3>
+## Tech stack
+
+<div align="left">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## LVN Gameplay Programming Showcase
 
 <p align="center">
   <a href="https://github.com/LukkasVN/LVN-Gameplay-Programming-Showcase">
@@ -75,12 +43,30 @@
   </a>
 </p>
 
-<p align="center">
-  A comprehensive series exploring gameplay systems and tools across Unity and Unreal Engine. From state machines to physics systems, learn how professional gameplay mechanics are built.
-</p>
+An ongoing series of gameplay systems and tools, implemented and documented across both Unity and Unreal. State machines, damage and destruction, input handling, editor tools, and whatever else is worth writing up properly.
 
 <h3 align="center">
   <a href="https://github.com/LukkasVN/LVN-Gameplay-Programming-Showcase">Explore the Showcase Repository</a>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukkasvn&label=Profile%20views&color=0e75b6&style=flat" alt="lukkasvn" /> </p>
+<br>
+
+## Shipped
+
+**[Bounce It](https://store.steampowered.com/app/3482000/Bounce_IT/)** on Steam, 2024.
+
+13 game jams completed. Most recently *Mask Atrack*, built for HobbyPont 2026 (Global Game Jam 2026) in 48 hours, where I handled programming, game design, and project direction.
+
+<br>
+
+## Contact
+
+lucasvnbusiness@gmail.com
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lukkasvn&label=Profile+views&color=4A82C4&style=flat" alt="lukkasvn" />
+
+</div>
