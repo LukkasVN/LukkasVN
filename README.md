@@ -14,7 +14,7 @@
 
 I build gameplay systems in Unity and Unreal, and I use this account mostly to document how those systems are put together: state machines, damage and destruction, tooling, editor scripting, whatever I'm currently taking apart to see how it works.
 
-Open to roles inside a game studio, and taking on freelance programming, tooling, and VR/simulator work on the side. Full profile, services, and devlog live on my [portfolio site](https://lukkasvn.github.io) [Currently WIP].
+Open to roles inside a game studio, and taking on freelance programming, tooling, and VR/simulator work on the side. Full profile, services, and devlog live on my [Portfolio Site](https://lukkasvn.github.io).
 
 <br>
 
